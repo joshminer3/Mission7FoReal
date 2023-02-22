@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Mission6/Views/Home/Movies.cshtml">
     <Files>
       <File FileName="Mission6/Controllers/HomeController.cs" />
-      <File FileName="Mission6/Views/Home/Movies.cshtml" Line="50" Column="25" />
+      <File FileName="Mission6/Views/Home/Movies.cshtml" Line="63" Column="8" />
       <File FileName="Mission6/appsettings.json" />
       <File FileName="Mission6/Models/ContextClass.cs" />
       <File FileName="Mission6/Program.cs" />
@@ -12,8 +12,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Mission6" expanded="True">
-            <Node name="New Folder" expanded="True" selected="True">
+          <Node name="Mission6" expanded="True" selected="True">
+            <Node name="New Folder" expanded="True">
               <Node name="Mission6" expanded="True">
                 <Node name="Controllers" expanded="True" />
                 <Node name="Views" expanded="True">
@@ -33,6 +33,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/joshuaminer/Desktop/Mission7Please/Mission6/Views/Home/Movies.cshtml" relfile="Mission6/Views/Home/Movies.cshtml" line="37" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
